@@ -13,8 +13,6 @@
 
 - **Previsão do Tempo Atual**: Exibe informações meteorológicas atuais para uma cidade específica, incluindo a temperatura no momento da pesquisa, a descrição das condições climáticas e a umidade relativa..
 
-- **Tabela do Brasileirão 2023**: Apresenta a tabela de classificação do Campeonato Brasileiro de 2023. Os usuários podem visualizar as posições das equipes, os pontos conquistados e outros detalhes importantes.
-
 - **Unidades de Medida**: Os usuários podem usar a barra de pesquisa para encontrar informações meteorológicas para qualquer cidade do mundo.
 
 - **Controle de Data**: Permite aos usuários avançar ou retroceder na programação dos jogos, facilitando a visualização de jogos passados e futuros.
