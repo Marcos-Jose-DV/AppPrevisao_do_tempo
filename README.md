@@ -15,8 +15,6 @@
 
 - **Unidades de Medida**: Os usuários podem usar a barra de pesquisa para encontrar informações meteorológicas para qualquer cidade do mundo.
 
-- **Controle de Data**: Permite aos usuários avançar ou retroceder na programação dos jogos, facilitando a visualização de jogos passados e futuros.
-
 :earth_americas: Endpoint da API OpenWeatherMap
 
 - **Obter Previsão do Tempo Atual**: Este endpoint permite ao aplicativo recuperar informações sobre o clima atual para uma cidade específica, incluindo temperatura, umidade, descrição das condições climáticas e horário da última atualização.
