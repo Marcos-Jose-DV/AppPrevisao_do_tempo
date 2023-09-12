@@ -1,6 +1,6 @@
 "# AppPrevisao_do_tempo" 
 
-p align="center">
+<p align="center">
 <img loading="lazy" src="https://raw.githubusercontent.com/Marcos-Jose-DV/AppPrevisao_do_tempo/main/AppPrevisao.png"/>
 </p>
 <h1>Resumo do projeto</h1>
